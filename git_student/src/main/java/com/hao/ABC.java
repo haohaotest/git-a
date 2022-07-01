@@ -7,5 +7,6 @@ package com.hao;
 public class ABC {
     public static void main(String[] args) {
         System.out.println("Test Message");
+        System.out.println("The is master branch");
     }
 }
