@@ -13,5 +13,6 @@ public class ABC {
         System.out.println("999");
         System.out.println("push test");
         System.out.println("IDEA push 2！");
+        System.out.println("遠程庫修改的程式碼");
     }
 }
