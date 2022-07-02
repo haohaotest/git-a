@@ -12,5 +12,6 @@ public class ABC {
         System.out.println("The is master branch");
         System.out.println("999");
         System.out.println("push test");
+        System.out.println("IDEA push 2！");
     }
 }
