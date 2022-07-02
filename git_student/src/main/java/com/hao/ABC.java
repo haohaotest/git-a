@@ -6,13 +6,7 @@ package com.hao;
  */
 public class ABC {
     public static void main(String[] args) {
-        System.out.println("Test Message");
-        System.out.println("The is master branch");
-        System.out.println("123");
-        System.out.println("The is master branch");
-        System.out.println("999");
-        System.out.println("push test");
-        System.out.println("IDEA push 2！");
-        System.out.println("遠程庫修改的程式碼");
+        System.out.println("刪光光");
+
     }
 }
